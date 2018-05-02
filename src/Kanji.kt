@@ -1,0 +1,1 @@
+data class Kanji(var name: String, var englishMeaning: String)
